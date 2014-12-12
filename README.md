@@ -6,4 +6,8 @@ Fm-QCA is guided by Shiping Tang who is a distinguished professor in Fudan unive
 
 This software is open for all the scholars. If you have any sugesstions, just send mail to fm_qca@126.com
 
-Please enjoy it!
+Please enjoy it.
+
+======
+
+User manual for Fm-QCA(v1.0) will be realized soon.
