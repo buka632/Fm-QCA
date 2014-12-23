@@ -11,18 +11,19 @@ Please enjoy it.
 
 How to start with Fm-QCA
 ======
-To start with Fm-QCA, you can follow the following steps:
+To start with Fm-QCA, you can follow the steps below:
 
 1. Download Fm-QCA
 -----------------------------------
-1)Click the button "Download ZIP" to download Fm-QCA
+>1) Click the button "Download ZIP" to download Fm-QCA
 
-2)Unzip the file and follow the next step
+>2) Unzip the file and follow the next step
 
 2. Install java environment
 -----------------------------------
 Fm-QCA is developed in Java, so, you should make sure that a java environment (jdk/jre 6+) is installed and configured correctly in your system (windows/mac/linux)
-#If you have installed java in you system before, just skip this step.
+
+>If you have installed java in you system before, just skip this step.
 
 More details about the installation can be found here:
 
@@ -38,17 +39,17 @@ Please select the right version according to your system.
 -----------------------------------
 If you have installed and configured java correctly, you can run Fm-QCA simply by:
 
-For windows:
+###For windows:
 
 Double click runQCA.vbs will work.
 
-For Mac and Linux
+###For Mac and Linux
 
 Please use bash to run Fm-QCA:
 
-1)cd qca-released-v1.0  //use "cd" to enter the Fm-QCA folder
+>1) cd qca-released-v1.0  //use "cd" to enter the Fm-QCA folder
 
-2)java -jar qca.jar     //use "java -jar" to run qca.jar, ensure that java environment is installed before.
+>2) java -jar qca.jar     //use "java -jar" to run qca.jar, ensure that java environment is installed before.
 
 ======
 
