@@ -9,6 +9,22 @@ This software is open for all the scholars. If you have any sugesstions, just se
 Please enjoy it.
 
 
+Notice
+======
+Some users report that the connection to github is blocked sometimes,
+so, we clone this project to oschina which may be faster in some places.
+
+If have problems with github, please visit 
+		http://git.oschina.net/buka632/Fm-QCA
+
+Sample Dataset released!
+======
+A sample dataset is released which is coded by Prof. Shiping Tang.
+This dataset is only used to show the usage of fm-QCA and all rights reserved,
+please don't exploit it in other works.
+
+For more details: http://blog.sina.com.cn/s/blog_744a73490102vc9i.html
+
 How to start with Fm-QCA
 ======
 To start with Fm-QCA, you can follow the steps below:
@@ -53,4 +69,4 @@ Please use bash to run Fm-QCA:
 
 ======
 
-User manual for Fm-QCA(v1.0) will be realized soon.
+User manual for Fm-QCA(v1.0) will be released soon.
