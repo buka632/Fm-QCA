@@ -2,7 +2,6 @@ Fm-QCA (Fully functional multi-value QCA)
 ======
 QCA(Qualitative Comparative Analysis) is an analysis method for scholars who aim at qualitative research and deal with small-N cases. Several softwares are available including fs/QCA, Mv/QCA but when it refers to multiple-valued field, some limitations exist. So, we developed this tool named Fm-QCA to make it easy for handling mv-QCA data.
 
-Fm-QCA is guided by Shiping Tang who is a distinguished professor in Fudan university and developed by a technical team in ECNU.
 
 This software is open for all the scholars. If you have any sugesstions, just send mail to fm_qca@126.com
 
@@ -19,11 +18,10 @@ If have problems with github, please visit
 
 Sample Dataset released!
 ======
-A sample dataset is released which is coded by Prof. Shiping Tang.
+A sample dataset is released!
 This dataset is only used to show the usage of fm-QCA and all rights reserved,
 please don't exploit it in other works.
 
-For more details: http://blog.sina.com.cn/s/blog_744a73490102vc9i.html
 
 How to start with Fm-QCA
 ======
