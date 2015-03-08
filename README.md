@@ -16,6 +16,10 @@ so, we clone this project to oschina which may be faster in some places.
 If have problems with github, please visit 
 		http://git.oschina.net/buka632/Fm-QCA
 
+User manual is released now!		
+======
+User manual for Fm-QCA(v1.0) is released now!	
+		
 Sample Dataset released!
 ======
 A sample dataset is released!
@@ -67,4 +71,3 @@ Please use bash to run Fm-QCA:
 
 ======
 
-User manual for Fm-QCA(v1.0) will be released soon.
