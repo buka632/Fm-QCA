@@ -7,7 +7,7 @@ This software is open for all the scholars. If you have any sugesstions, just se
 
 Please enjoy it.
 
-![image](https://github.com/buka632/Fm-QCA/tree/master/screenshots/fm-QCA.jpg)
+![image](https://github.com/buka632/Fm-QCA/blob/master/screenshots/fm-QCA.jpg)
 
 Notice
 ======
