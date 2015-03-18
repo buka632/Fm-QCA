@@ -7,7 +7,9 @@ This software is open for all the scholars. If you have any sugesstions, just se
 
 Please enjoy it.
 
-![image](https://github.com/buka632/Fm-QCA/blob/master/screenshots/fm-QCA.jpg)
+![image](http://www.ccda.fudan.edu.cn/uploads/fm-QCA.jpg)
+
+More related work can be found at:http://www.ccda.fudan.edu.cn/index.php?c=article&id=63
 
 Notice
 ======
