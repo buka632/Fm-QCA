@@ -71,5 +71,8 @@ Please use bash to run Fm-QCA:
 
 ======
 
-[](http://www3.clustrmaps.com/user/2d511bb51)
+
+<div id="clustrmaps-widget"></div><script type="text/javascript">var _clustrmaps = {'url' : 'https://github.com/buka632/Fm-QCA', 'user' : 1162065, 'server' : '3', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2015-03-18', 'lang' : 'zh', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www3.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href="http://www3.clustrmaps.com/user/2d511bb51"><img src="http://www3.clustrmaps.com/stats/maps-no_clusters/https---github.com-buka632-Fm-QCA-thumb.jpg" alt="Locations of visitors to this page" /></a></noscript>
+
+[fm-QCA](http://www3.clustrmaps.com/user/2d511bb51)
 ![fm-QCA](http://www3.clustrmaps.com/stats/maps-no_clusters/https---github.com-buka632-Fm-QCA-thumb.jpg)
